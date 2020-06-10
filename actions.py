@@ -7,8 +7,8 @@ from selenium.webdriver.chrome.options import Options
 import time
 import random
 
-user = "samarmusthafa2014@gmail.com"
-passwd = "Feral11@11clans"
+user = ""
+passwd = ""
 attributes = ["str","agl","gua","lab"]
 
 def login(web):
